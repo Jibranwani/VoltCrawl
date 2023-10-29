@@ -9,7 +9,7 @@ Volt is An Intelligent Automated tool used to collect every vulnerable parameter
 
 ### Main Features
 - Find XSS vulnerable patameters.
-- Crwal entire website and collect every URL
+- Crawl entire website and collect every URL
 - Advance Error Handling.
 - Collect GET parameters.
 
@@ -21,8 +21,8 @@ Volt is An Intelligent Automated tool used to collect every vulnerable parameter
 ### Installation
 
 ```bash
-git clone https://www.github.com/thenurhabib/Volt
-cd collector
+git clone https://www.github.com/jibranwani/Volt
+cd Volt
 pip install -r requirements.txt
 python3 Volt.py -h
 ```
