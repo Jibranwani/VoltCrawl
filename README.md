@@ -22,7 +22,7 @@ Volt is An Intelligent Automated tool used to collect every vulnerable parameter
 
 ```bash
 git clone https://www.github.com/jibranwani/Volt
-cd Volt
+cd VoltCrawl
 pip install -r requirements.txt
 python3 Volt.py -h
 ```
