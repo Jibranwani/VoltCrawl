@@ -26,6 +26,7 @@ cd collector
 pip install -r requirements.txt
 python3 Volt.py -h
 ```
+![Alt text](plugins/Screenshot volt.png)
 ### usage
 ```bash
 python3 Volt.py -d pull --host example.com
