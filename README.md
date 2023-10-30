@@ -1,5 +1,5 @@
-
-<h4 align="center">Collect XSS vulnerable parameters from entire domain.</h4>
+# VoltCrawl
+# Collect XSS vulnerable parameters from entire domain.
 
 <br>
 
@@ -21,7 +21,7 @@ Volt is An Intelligent Automated tool used to collect every vulnerable parameter
 ### Installation
 
 ```bash
-git clone https://www.github.com/jibranwani/Volt
+git clone https://www.github.com/jibranwani/VoltCrawl.git
 cd VoltCrawl
 pip install -r requirements.txt
 python3 Volt.py -h
@@ -29,7 +29,7 @@ python3 Volt.py -h
 ![Alt text](plugins/VOLTscreen.png)
 ### usage
 ```bash
-python3 Volt.py -d pull --host example.com
+python3 Volt.py pull --host example.com
 ```
 
 
