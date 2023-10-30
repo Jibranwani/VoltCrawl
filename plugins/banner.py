@@ -31,7 +31,7 @@ def Bannerfunction():
  \       /  |       |  |        |
   \     /  |         | |        | 
    \   /   \         / |        |
-    \ /     \ ------/  |------- |  {blue} {__Version__}
+    \ /     \ ------/  |------- |  {blue}
 {red}
            @Boolean Hooligans
             Team KARE 
