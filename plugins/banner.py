@@ -33,6 +33,8 @@ def Bannerfunction():
    \   /   \         / |        |
     \ /     \ ------/  |------- |  {blue} {__Version__}
 {red}
-           @jibran {reset}
-  
+           @Boolean Hooligans
+            Team KARE 
+            U. Akhil, Sagar, Jibran{reset}
+            
           """)
